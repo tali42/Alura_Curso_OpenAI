@@ -1,0 +1,7 @@
+Recomendação: 
+
+Tipo: Acionar setor Anti-Fraude
+
+Descrição: A transação ID '9c' foi marcada como uma possível fraude. O padrão irregular de gastos, o horário fora do comum para a realização da compra e a localização atípica, além do valor elevado da transação, contribuíram para tal sinalização. A autenticidade da transação deve ser verificada diretamente com o titular do cartão. Acione a equipe de prevenção a fraudes para prosseguir com a investigação detalhada e evitar danos potenciais.
+
+Classificação de Fraude: Possível Fraude por Comportamento Atípico de Compra.
